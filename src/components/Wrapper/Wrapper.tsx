@@ -1,4 +1,4 @@
-import { WrapperProps } from '@/type/Types';
+import { WrapperProps } from '@/utils/Types';
 
 const Wrapper = ({ children, className }: WrapperProps) => {
     return (
